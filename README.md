@@ -19,6 +19,7 @@ Program diatas saya mengimport modul math yang sudah di sediakan oleh python. Fu
 ![Gambar4](SS4.png)
 #### untuk mengambil 2 angka pecahan saja kita pakai fungsi format() seperti berikut: <p>
 ![Gambar5](SS5.png)
-Dengan penggunaan fungsi format(luas,’.2f’) akan menghasilkan 2 angka pecahan saja. <p>
+sintak \t merupakan karakter espace yang berfungsi untuk membuat tab. dalam kasus ini agar sejajar karakter sama dengan (=) nya. <p>
+sedangkan  penggunaan fungsi format(luas,’.2f’) akan menghasilkan 2 angka pecahan saja. <p>
 Sekian pembahasan mengenai contoh program menghitung luas dan keliling lingkaran. <p>
 terimakasih :) <p> 
